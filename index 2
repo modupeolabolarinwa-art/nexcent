@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Caring is the new marketing</title>
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-white">
+
+    <!-- MARKETING SECTION -->
+    <section class="border-t border-blue-500 py-8">
+
+        <!-- MAIN CONTAINER -->
+        <div class="max-w-6xl mx-auto px-6">
+
+            <!-- HEADING -->
+            <div class="text-center max-w-2xl mx-auto mb-6">
+
+                <h2 class="text-2xl md:text-3xl font-bold text-gray-600 mb-2">
+                    Caring is the new marketing
+                </h2>
+
+                <p class="text-xs md:text-sm text-gray-500 leading-5">
+                    The Nexcent blog is the best place to read about the latest
+                    membership insights, trends and more. See who's joining the
+                    community, read about how our community are increasing their
+                    membership income and lots more.
+                </p>
+
+            </div>
+
+
+            <!-- CARDS -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+
+
+                <!-- CARD 1 -->
+                <div class="relative">
+
+                    <!-- IMAGE -->
+                    <img
+                        src="https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=600&q=80"
+                        alt="Woman reading"
+                        class="w-full h-44 object-cover rounded-sm"
+                    >
+
+                    <!-- WHITE TEXT BOX -->
+                    <div
+                        class="relative mx-3 -mt-10 bg-gray-100
+                               rounded-md shadow-sm
+                               px-4 py-3 text-center"
+                    >
+
+                        <h3 class="text-sm font-semibold text-gray-600 leading-5">
+                            Creating Streamlined
+                            Safeguarding Processes with
+                            OneRen
+                        </h3>
+
+                    </div>
+
+                    <!-- READ MORE -->
+                    <div class="text-center mt-3">
+
+                        <a
+                            href="#"
+                            class="text-green-500 text-xs font-medium
+                                   hover:text-green-700"
+                        >
+                            Readmore →
+                        </a>
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- CARD 2 -->
+                <div class="relative">
+
+                    <!-- IMAGE -->
+                    <img
+                        src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=600&q=80"
+                        alt="Laptop and coffee"
+                        class="w-full h-44 object-cover rounded-sm"
+                    >
+
+                    <!-- WHITE TEXT BOX -->
+                    <div
+                        class="relative mx-3 -mt-10 bg-gray-100
+                               rounded-md shadow-sm
+                               px-4 py-3 text-center"
+                    >
+
+                        <h3 class="text-sm font-semibold text-gray-600 leading-5">
+                            What are your safeguarding
+                            responsibilities and how can
+                            you manage them?
+                        </h3>
+
+                    </div>
+
+                    <!-- READ MORE -->
+                    <div class="text-center mt-3">
+
+                        <a
+                            href="#"
+                            class="text-green-500 text-xs font-medium
+                                   hover:text-green-700"
+                        >
+                            Readmore →
+                        </a>
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- CARD 3 -->
+                <div class="relative">
+
+                    <!-- IMAGE -->
+                    <img
+                        src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&q=80"
+                        alt="Laptop on desk"
+                        class="w-full h-44 object-cover rounded-sm"
+                    >
+
+                    <!-- WHITE TEXT BOX -->
+                    <div
+                        class="relative mx-3 -mt-10 bg-gray-100
+                               rounded-md shadow-sm
+                               px-4 py-3 text-center"
+                    >
+
+                        <h3 class="text-sm font-semibold text-gray-600 leading-5">
+                            Revamping the Membership
+                            Model with Triathlon
+                            Australia
+                        </h3>
+
+                    </div>
+
+                    <!-- READ MORE -->
+                    <div class="text-center mt-3">
+
+                        <a
+                            href="#"
+                            class="text-green-500 text-xs font-medium
+                                   hover:text-green-700"
+                        >
+                            Readmore →
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+</body>
+</html>
